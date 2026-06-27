@@ -69,10 +69,4 @@
 
   <br><br>
 
-  <h2>My Github Stats</h2>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=juanrmos&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Estadísticas de juanrmos" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrmos&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Lenguajes Top" />
-  </div>
-
 </div>
