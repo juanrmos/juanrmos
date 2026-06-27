@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://path-to-your-static-ghibli-banner.jpg" alt="Studio Ghibli Forest Banner" width="1000" height="250" />
+  <br><br>  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=Hello+World.+I'm+J.R.M.;Full+Stack+Developer.+Creative+and+Collaborative.;Keeping+pace+with+the+evolving+tech+world." alt="Typing SVG" />
   </a>
