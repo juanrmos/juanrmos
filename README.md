@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxwNnIxc2Jkc2oxY2M5ejR4c2Y4ZTc5OThyajd2MnoxNXNnZWN4ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Gif Banner" width="1000" height="250" />
   <br><br>  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=%232596be&center=true&vCenter=true&width=800&height=80&lines=Hello+World.+I'm+J.R.M.;Full+Stack+Developer.+Creative+and+Collaborative.;Keeping+pace+with+the+evolving+tech+world." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=%232596be&center=true&vCenter=true&width=800&height=80&lines=Hello+World.+I'm+J.R.M.;Full+Stack+Developer.+Creative+and+Collaborative.;Keeping+pace+with+the+evolving+tech+world.&v=2" alt="Typing SVG" />
   </a>
 
   <br><br>
